@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 from config import save_config
 from cli import handle_list, handle_add
