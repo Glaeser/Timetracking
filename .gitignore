@@ -1,0 +1,63 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+installed.cfg
+*.egg
+MANIFEST
+*.log
+db.sqlite3
+db.sqlite3-journal
+instance/
+webassets-cache
+scrapy
+docs/_build/
+pybuilder/
+target/
+ipynb_checkpoints
+env
+venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+mypy_cache/
+pytest_cache/
+# --- React / Node.js ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+cache/
+next/
+out/
+# --- OS Specific ---
+DS_Store
+Thumbs.db
+# --- IDE Specific ---
+vscode/
+idea/
+# --- Environment Files ---
+env.local
+env.development.local
+env.test.local
+env.production.local
